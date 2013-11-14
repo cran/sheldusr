@@ -1,0 +1,14 @@
+bb0a81e8e29717fe2eea7cb153bebfeb *DESCRIPTION
+abe3042400c65006ea3949a2fff72b1b *NAMESPACE
+a5538f07e85be78041e5105253fdaece *NEWS
+38a93182b0c80fc1d72fb9ecdc33a23e *R/assemble_data.r
+433dbeb703c467315df2ea3efad8364b *R/data.r
+cc2b8ff6ef1e1ae41c35ab76641e5563 *R/extract_data.r
+7f29e910189b731f8f201b1366b31ef1 *R/sheldusr-package.r
+b177d2f415efa112e0ec50068430820a *README.md
+c50ed60356afbc195a6541668fda4884 *data/datalist
+e7a26795c3fc315f80e0e2b3b0a58afc *data/sheldus_data.rda
+afe10401a07a6b190724227420022188 *man/sheldus_assemble_data.Rd
+b7d5c471b068ad42511b99a356c15a4a *man/sheldus_data.Rd
+2b6058a2ec5939df865a632d182a17a6 *man/sheldus_extract.Rd
+3108054c9e122ab1bb48d2bdc1a3c7cb *man/sheldusr.Rd

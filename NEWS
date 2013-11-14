@@ -1,0 +1,13 @@
+Version 0.1
+-----------
+
+* Data spans the time period 1960 - 2012. Additional data from SHELDUS 
+  (prior to 1960 and Presidential Disaster Declarations) will be 
+  included in the future.
+
+* `sheldus_extract` can be used to extract data for a desired time period
+  and desired hazard. Selection by State will be included in the future.
+  
+* REMARKS column from the SHELDUS database is ignored for now; will be
+  included in the future.
+  

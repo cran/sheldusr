@@ -1,0 +1,23 @@
+Package: sheldusr
+Title: Natural disaster losses for the USA from the SHELDUS database
+Description: The Spatial Hazard Events and Losses Database in the United States
+    (SHELDUS, http://www.sheldus.org), from the University of South Carolina,
+    is a database on human and property losses from natural disasters in the
+    United States. This database includes County-level information on property
+    losses, crop losses, injuries and fatalities from 18 different types of
+    natural hazards from about 1960 to the present. Although the data is free,
+    downloading the data is tedious and so is cleaning and analysing it. This
+    package comes with the entire SHELDUS data and includes functionality for
+    data extraction and analysis.
+Version: 0.1
+Author: Gopi Goteti <my.ration.shop@gmail.com>
+Maintainer: Gopi Goteti <my.ration.shop@gmail.com>
+Depends: R (>= 3.0.2)
+License: GPL (>= 2)
+LazyData: false
+Collate: 'assemble_data.r' 'extract_data.r' 'sheldusr-package.r'
+        'data.r'
+Packaged: 2013-11-14 19:31:47 UTC; ggoteti
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2013-11-15 00:49:20
